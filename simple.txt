@@ -4,3 +4,6 @@ aaaaabbbbbcccc
 dddddeeeefff
 
 ggghhh
+
+I'm Teddy 
+"git status"
